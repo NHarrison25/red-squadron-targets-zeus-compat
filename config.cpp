@@ -12,39 +12,51 @@ class CfgPatches {
 class CfgVehicles {
 	class TargetP_Inf_F;
 	class metalTarget_Stand:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class cardTarget_Stand:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class metalTarget_Stand_Mozam:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class metalTarget_Stand_MozamSmall:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class metalTarget_Stand_Black:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class metalTarget_Stand_AZone:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanFull_green:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanShoulder_green:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanFull_red:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanShoulder_red:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanFull_Blue:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 	class plasticIvanShoulder_Blue:TargetP_Inf_F {
+		destrType = "DestructDefault";
 		side = 3;
 	};
 };
